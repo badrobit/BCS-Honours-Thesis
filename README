@@ -1,0 +1,1 @@
+This project uses the Point Cloud Library (PCL) in order to gather information from a Microsoft Kinect and to process it. It looks for predertermined objects and sends drive commands to an Arduino that can control an iRobot Create in order to pick them up and to put them away. 
