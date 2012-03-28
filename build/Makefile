@@ -111,6 +111,19 @@ honours_thesis/fast:
 	$(MAKE) -f CMakeFiles/honours_thesis.dir/build.make CMakeFiles/honours_thesis.dir/build
 .PHONY : honours_thesis/fast
 
+#=============================================================================
+# Target rules for targets named honours_thesis_test
+
+# Build rule for target.
+honours_thesis_test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 honours_thesis_test
+.PHONY : honours_thesis_test
+
+# fast build rule for target.
+honours_thesis_test/fast:
+	$(MAKE) -f CMakeFiles/honours_thesis_test.dir/build.make CMakeFiles/honours_thesis_test.dir/build
+.PHONY : honours_thesis_test/fast
+
 honours_thesis.o: honours_thesis.cpp.o
 .PHONY : honours_thesis.o
 
@@ -135,6 +148,30 @@ honours_thesis.cpp.s:
 	$(MAKE) -f CMakeFiles/honours_thesis.dir/build.make CMakeFiles/honours_thesis.dir/honours_thesis.cpp.s
 .PHONY : honours_thesis.cpp.s
 
+honours_thesis_test.o: honours_thesis_test.cpp.o
+.PHONY : honours_thesis_test.o
+
+# target to build an object file
+honours_thesis_test.cpp.o:
+	$(MAKE) -f CMakeFiles/honours_thesis_test.dir/build.make CMakeFiles/honours_thesis_test.dir/honours_thesis_test.cpp.o
+.PHONY : honours_thesis_test.cpp.o
+
+honours_thesis_test.i: honours_thesis_test.cpp.i
+.PHONY : honours_thesis_test.i
+
+# target to preprocess a source file
+honours_thesis_test.cpp.i:
+	$(MAKE) -f CMakeFiles/honours_thesis_test.dir/build.make CMakeFiles/honours_thesis_test.dir/honours_thesis_test.cpp.i
+.PHONY : honours_thesis_test.cpp.i
+
+honours_thesis_test.s: honours_thesis_test.cpp.s
+.PHONY : honours_thesis_test.s
+
+# target to generate assembly for a file
+honours_thesis_test.cpp.s:
+	$(MAKE) -f CMakeFiles/honours_thesis_test.dir/build.make CMakeFiles/honours_thesis_test.dir/honours_thesis_test.cpp.s
+.PHONY : honours_thesis_test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -143,10 +180,14 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... honours_thesis"
+	@echo "... honours_thesis_test"
 	@echo "... rebuild_cache"
 	@echo "... honours_thesis.o"
 	@echo "... honours_thesis.i"
 	@echo "... honours_thesis.s"
+	@echo "... honours_thesis_test.o"
+	@echo "... honours_thesis_test.i"
+	@echo "... honours_thesis_test.s"
 .PHONY : help
 
 

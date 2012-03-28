@@ -88,6 +88,41 @@ clean: CMakeFiles/honours_thesis.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/honours_thesis_test.dir
+
+# All Build rule for target.
+CMakeFiles/honours_thesis_test.dir/all:
+	$(MAKE) -f CMakeFiles/honours_thesis_test.dir/build.make CMakeFiles/honours_thesis_test.dir/depend
+	$(MAKE) -f CMakeFiles/honours_thesis_test.dir/build.make CMakeFiles/honours_thesis_test.dir/build
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/badrobot/honours_thesis/build/CMakeFiles  2
+	@echo "Built target honours_thesis_test"
+.PHONY : CMakeFiles/honours_thesis_test.dir/all
+
+# Include target in all.
+all: CMakeFiles/honours_thesis_test.dir/all
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/honours_thesis_test.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/badrobot/honours_thesis/build/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/honours_thesis_test.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/badrobot/honours_thesis/build/CMakeFiles 0
+.PHONY : CMakeFiles/honours_thesis_test.dir/rule
+
+# Convenience name for target.
+honours_thesis_test: CMakeFiles/honours_thesis_test.dir/rule
+.PHONY : honours_thesis_test
+
+# clean rule for target.
+CMakeFiles/honours_thesis_test.dir/clean:
+	$(MAKE) -f CMakeFiles/honours_thesis_test.dir/build.make CMakeFiles/honours_thesis_test.dir/clean
+.PHONY : CMakeFiles/honours_thesis_test.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/honours_thesis_test.dir/clean
+.PHONY : clean
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.
