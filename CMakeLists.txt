@@ -10,3 +10,6 @@ add_definitions(${PCL_DEFINITIONS})
 
 add_executable(honours_thesis honours_thesis.cpp)
 target_link_libraries(honours_thesis ${PCL_COMMON_LIBRARIES} ${PCL_IO_LIBRARIES} ${PCL_LIBRARIES})
+
+add_executable(honours_thesis_test honours_thesis_test.cpp)
+target_link_libraries(honours_thesis_test ${PCL_COMMON_LIBRARIES} ${PCL_IO_LIBRARIES} ${PCL_LIBRARIES})

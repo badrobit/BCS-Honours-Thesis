@@ -1,0 +1,168 @@
+Kinect Data Capture:	0.016073
+Size Reduction:			0.112431
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.197613
+Kinect Data Capture:	0.0159531
+Size Reduction:			0.112043
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.196181
+Kinect Data Capture:	0.017535
+Size Reduction:			0.112958
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.197112
+Kinect Data Capture:	0.01701
+Size Reduction:			0.111617
+Noise Reduction:		5.96046e-06
+Environment Segmentation:	0.198583
+Kinect Data Capture:	0.016223
+Size Reduction:			0.111891
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.196601
+Kinect Data Capture:	0.0170381
+Size Reduction:			0.111599
+Noise Reduction:		3.09944e-06
+Environment Segmentation:	0.198627
+Kinect Data Capture:	0.017513
+Size Reduction:			0.112654
+Noise Reduction:		6.91414e-06
+Environment Segmentation:	0.200074
+Kinect Data Capture:	0.0171521
+Size Reduction:			0.111721
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.196888
+Kinect Data Capture:	0.016695
+Size Reduction:			0.111915
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.197905
+Kinect Data Capture:	0.0169389
+Size Reduction:			0.114369
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.198725
+Kinect Data Capture:	0.0163779
+Size Reduction:			0.111625
+Noise Reduction:		1.28746e-05
+Environment Segmentation:	0.197746
+Kinect Data Capture:	0.0170541
+Size Reduction:			0.111925
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.196861
+Kinect Data Capture:	0.016299
+Size Reduction:			0.11189
+Noise Reduction:		7.15256e-06
+Environment Segmentation:	0.198229
+Kinect Data Capture:	0.0213981
+Size Reduction:			0.113929
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.199679
+Kinect Data Capture:	0.0167329
+Size Reduction:			0.114555
+Noise Reduction:		1.09673e-05
+Environment Segmentation:	0.201137
+Kinect Data Capture:	0.0179629
+Size Reduction:			0.114907
+Noise Reduction:		5.00679e-06
+Environment Segmentation:	0.205748
+Kinect Data Capture:	0.01722
+Size Reduction:			0.112363
+Noise Reduction:		3.09944e-06
+Environment Segmentation:	0.198581
+Kinect Data Capture:	0.019767
+Size Reduction:			0.130402
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.199664
+Kinect Data Capture:	0.017885
+Size Reduction:			0.117488
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.203983
+Kinect Data Capture:	0.017185
+Size Reduction:			0.117925
+Noise Reduction:		3.09944e-06
+Environment Segmentation:	0.210892
+Kinect Data Capture:	0.0173428
+Size Reduction:			0.112946
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.212498
+Kinect Data Capture:	0.0178869
+Size Reduction:			0.115252
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.204754
+Kinect Data Capture:	0.017266
+Size Reduction:			0.11164
+Noise Reduction:		3.09944e-06
+Environment Segmentation:	0.198853
+Kinect Data Capture:	0.016048
+Size Reduction:			0.113054
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.2441
+Kinect Data Capture:	0.021323
+Size Reduction:			0.129843
+Noise Reduction:		4.05312e-06
+Environment Segmentation:	0.210215
+Kinect Data Capture:	0.0192101
+Size Reduction:			0.124967
+Noise Reduction:		5.96046e-06
+Environment Segmentation:	0.21067
+Kinect Data Capture:	0.0192282
+Size Reduction:			0.113582
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.20197
+Kinect Data Capture:	0.0162101
+Size Reduction:			0.114615
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.199893
+Kinect Data Capture:	0.0172172
+Size Reduction:			0.113802
+Noise Reduction:		1.00136e-05
+Environment Segmentation:	0.199581
+Kinect Data Capture:	0.0169392
+Size Reduction:			0.112677
+Noise Reduction:		3.09944e-06
+Environment Segmentation:	0.230777
+distance of center pixel :nan mm. Average framerate: 1.90424 Hz
+Kinect Data Capture:	0.017344
+Size Reduction:			0.127482
+Noise Reduction:		2.86102e-06
+Environment Segmentation:	0.209757
+Kinect Data Capture:	0.0181918
+Size Reduction:			0.118906
+Noise Reduction:		2.86102e-06
+Environment Segmentation:	0.209484
+Kinect Data Capture:	0.020822
+Size Reduction:			0.119007
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.214218
+Kinect Data Capture:	0.0207052
+Size Reduction:			0.123416
+Noise Reduction:		5.96046e-06
+Environment Segmentation:	0.220882
+Kinect Data Capture:	0.02036
+Size Reduction:			0.126247
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.214653
+Kinect Data Capture:	0.0182889
+Size Reduction:			0.11823
+Noise Reduction:		5.96046e-06
+Environment Segmentation:	0.211131
+Kinect Data Capture:	0.016814
+Size Reduction:			0.115587
+Noise Reduction:		1.00136e-05
+Environment Segmentation:	0.202423
+Kinect Data Capture:	0.016664
+Size Reduction:			0.113944
+Noise Reduction:		2.86102e-06
+Environment Segmentation:	0.201613
+Kinect Data Capture:	0.017998
+Size Reduction:			0.11445
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.203194
+Kinect Data Capture:	0.0171549
+Size Reduction:			0.111292
+Noise Reduction:		1.90735e-06
+Environment Segmentation:	0.204522
+Kinect Data Capture:	0.016017
+Size Reduction:			0.111485
+Noise Reduction:		2.14577e-06
+Environment Segmentation:	0.198695
+Kinect Data Capture:	0.0157239
+Size Reduction:			0.111127
+Noise Reduction:		1.90735e-06

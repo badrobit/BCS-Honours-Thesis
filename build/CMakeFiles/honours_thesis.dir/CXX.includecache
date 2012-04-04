@@ -25,6 +25,12 @@ pcl/sample_consensus/model_types.h
 -
 pcl/segmentation/sac_segmentation.h
 -
+pcl/sample_consensus/sac_model_sphere.h
+-
+pcl/filters/voxel_grid.h
+-
+pcl/filters/extract_indices.h
+-
 
 /usr/include/eigen3/Eigen/Cholesky
 Core
@@ -1276,6 +1282,30 @@ sstream
 pcl/pcl_macros.h
 -
 
+/usr/include/pcl-1.5/pcl/filters/extract_indices.h
+pcl/filters/filter.h
+/usr/include/pcl-1.5/pcl/filters/pcl/filters/filter.h
+
+/usr/include/pcl-1.5/pcl/filters/filter.h
+pcl/pcl_base.h
+-
+pcl/ros/conversions.h
+/usr/include/pcl-1.5/pcl/filters/pcl/ros/conversions.h
+boost/make_shared.hpp
+-
+cfloat
+-
+
+/usr/include/pcl-1.5/pcl/filters/voxel_grid.h
+pcl/filters/filter.h
+/usr/include/pcl-1.5/pcl/filters/pcl/filters/filter.h
+map
+-
+boost/unordered_map.hpp
+-
+boost/fusion/sequence/intrinsic/at_key.hpp
+-
+
 /usr/include/pcl-1.5/pcl/for_each_type.h
 boost/mpl/is_sequence.hpp
 -
@@ -1647,6 +1677,12 @@ pcl/point_cloud.h
 -
 pcl/sample_consensus/model_types.h
 /usr/include/pcl-1.5/pcl/sample_consensus/pcl/sample_consensus/model_types.h
+
+/usr/include/pcl-1.5/pcl/sample_consensus/sac_model_sphere.h
+pcl/sample_consensus/sac_model.h
+-
+pcl/sample_consensus/model_types.h
+-
 
 /usr/include/pcl-1.5/pcl/segmentation/sac_segmentation.h
 pcl/pcl_base.h
